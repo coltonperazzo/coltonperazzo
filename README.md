@@ -9,3 +9,7 @@ Some of the coursework I have taken includes:
 - Probability and Statistics
 - Web Programming
 - Database Systems
+
+I am keen to use my skill set and education to help develop next-generation software products. Skilled in communication, leadership, and team-building environments. Excel in being a quick learner and challenging technical problem-solving. Specialized in thinking outside of the box to come up with creative and unique solutions. Experienced programmer inside and outside of the classroom. 
+
+I am specialized in: ```C++```, ```C```, ```Python```, ```Lua```, ```HTML/CSS``` and ```Javascript```. 
